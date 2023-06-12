@@ -22,7 +22,7 @@ Exam Seating Arrangement System Using JSP Servlet is a web-based application dev
 Github link: https://github.com/chabedalam11/Exam-Seating-Arrangement-System-Using-JSP-Servlet
 
 3. System 3- CV-Resume-Builder
-The CV Builder application is a project created that helps individuals who struggle with creating an attractive and creative CV or resume to showcase their skills and knowledge effectively. The objective of the CV Builder is to provide users with a user-friendly platform where they can easily fill in details such as personal information, skills, career objectives, and more to generate an impressive CV or resume. Users have the freedom to create and edit their CVs or resumes as needed. Additionally, the CV Builder suggests relevant jobs and companies based on the user's skills and interests mentioned in their resume.
+The CV Builder application is designed to assist individuals who face challenges in creating an appealing and unique CV or resume that effectively highlights their abilities and expertise. Its main goal is to offer users a user-friendly platform where they can effortlessly input personal details, skills, career goals, and other relevant information to generate an impressive CV or resume. Users have the flexibility to create and modify their CVs or resumes according to their requirements. Moreover, the CV Builder provides suggestions for suitable job positions and companies based on the user's mentioned skills and interests in their resume.
 
 Github link: https://github.com/meetakbari/CV-Resume-Builder/tree/master/src
 
